@@ -2,9 +2,7 @@
 import React from 'react';
 import QucikCart from '../Assets/Screenshot 2024-06-27 at 13-45-08 E-commmerse.png';
 import snapShot from '../Assets/Screenshot 2024-05-15 051829.png' 
-import empImg from '../Assets/strategic-planning-for-success-through-people-business-development-concept-by-choosing-professional-leaders-employee-competency-businessman-holding-magnifying-glass-hrm-or-human-resource-management-photo.jpg'
-
-
+import empImg from '../Assets/emp.jpg'
 const Portfolio = () => {
     const portPhotos = [
         { id: 1, title:'QucikCart', src: QucikCart, gitLinks:'https://github.com' ,codeDemo:'https://' },

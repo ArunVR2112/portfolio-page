@@ -8,9 +8,7 @@ const Portfolio = () => {
         { id: 1, title:'QucikCart', src: QucikCart, gitLinks:'https://github.com' ,codeDemo:'https://' },
         { id: 2, title:'Photo Gallery', src: snapShot, gitLinks:'https://github.com/ArunVR2112/snapshot-' ,codeDemo:'https://snapshotofimgae.netlify.app/' },
         { id: 3, title:'Employee Managgemnet', src: empImg, gitLinks:'https://github.com/ArunVR2112/Employee-Managemnet' ,codeDemo:'https://github.com/ArunVR2112/Employee-Managemnet' },
-        // { id: 4, src: HeroImg, githubLink:'https://github.com' ,codeDemo:'https://' },
-        // { id: 5, src: HeroImg, githubLink:'https://github.com' ,codeDemo:'https://' },
-        // { id: 6, src: HeroImg, githubLink:'https://github.com' ,codeDemo:'https://' },
+
     ];
 
     return (

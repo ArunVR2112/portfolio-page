@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-page/static/css/main.e9306b5e.css",
+    "main.js": "/portfolio-page/static/js/main.4807496d.js",
+    "static/media/Screenshot 2024-05-15 051829.png": "/portfolio-page/static/media/Screenshot 2024-05-15 051829.bc00eb94699fa4218360.png",
+    "static/media/Screenshot 2024-06-27 at 13-45-08 E-commmerse.png": "/portfolio-page/static/media/Screenshot 2024-06-27 at 13-45-08 E-commmerse.a836825b849e5cddcc1e.png",
+    "static/media/Screenshot 2024-06-27 at 15-57-58 typescript - Google S[...].png": "/portfolio-page/static/media/Screenshot 2024-06-27 at 15-57-58 typescript - Google S[...].7b99fa4b5418c320de13.png",
+    "static/media/heroimgae.JPG": "/portfolio-page/static/media/heroimgae.6ae9807dd320f24c57eb.JPG",
+    "static/media/Screenshot 2024-06-27 at 15-58-39 Linux - Google Search.png": "/portfolio-page/static/media/Screenshot 2024-06-27 at 15-58-39 Linux - Google Search.ad9923ab4aae2a5e0f6c.png",
+    "static/media/emp.jpg": "/portfolio-page/static/media/emp.e47e3cb2e4eaac61b79b.jpg",
+    "static/media/Screenshot 2024-06-27 at 16-04-14 java - Google Search.png": "/portfolio-page/static/media/Screenshot 2024-06-27 at 16-04-14 java - Google Search.69e67cdf696b32b91e46.png",
+    "static/media/Spring_Framework-Logo.wine.png": "/portfolio-page/static/media/Spring_Framework-Logo.wine.7ffbe3c72f4d4e57dc5d.png",
+    "static/media/CSS.png": "/portfolio-page/static/media/CSS.1a57e67ac1fd2ea84d64.png",
+    "static/media/React.png": "/portfolio-page/static/media/React.53dc6bc56f1c8aa7f441.png",
+    "index.html": "/portfolio-page/index.html",
+    "main.e9306b5e.css.map": "/portfolio-page/static/css/main.e9306b5e.css.map",
+    "main.4807496d.js.map": "/portfolio-page/static/js/main.4807496d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9306b5e.css",
+    "static/js/main.4807496d.js"
+  ]
+}

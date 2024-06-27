@@ -1,5 +1,5 @@
 import React from 'react'
-import java from '../Assets/java.png'
+import java from '../Assets/Screenshot 2024-06-27 at 16-04-14 java - Google Search.png'
 import JavaScript from '../Assets/javaScript.jpeg'
 import MySql from '../Assets/MySql.png'
 import ReactImg from '../Assets/React.png'
@@ -7,7 +7,9 @@ import SpringBoot from '../Assets/Spring_Framework-Logo.wine.png'
 import HtmlImg from '../Assets/HTML.png'
 import CssImg from '../Assets/CSS.png'
 import Tailwindimg from '../Assets/Tailwind.png'
+import Linux from '../Assets/Screenshot 2024-06-27 at 15-58-39 Linux - Google Search.png'
 
+import TypeScript from '../Assets/Screenshot 2024-06-27 at 15-57-58 typescript - Google S[...].png'
 
 const Experience = () => {
 
@@ -59,6 +61,18 @@ const Experience = () => {
       link: Tailwindimg,
       title:'TailWind',
       style:'shadow-sky-500'
+    },
+    {
+      id:9,
+      link:Linux,
+      title:'Linux',
+      style:'shadow-yellow-600'
+    },
+    {
+      id:10,
+      link:TypeScript,
+      title:'TypeScript',
+      style:'shadow-gray-600'
     }
   ]
 
@@ -67,7 +81,7 @@ const Experience = () => {
       <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white '>
         <div>
           <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Experience</p>
-          <p className='py-6 text-xl'>These are the technology i have worked on</p>
+          <p className='py-6 text-xl'>These are the technology I have worked on</p>
         </div>
 
 

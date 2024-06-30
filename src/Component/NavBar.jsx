@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
-import {Link} from 'react-scroll'
+import { Link } from 'react-scroll'
 
 function NavBar() {
     const [nav, setNav] = useState(false);
@@ -33,15 +33,15 @@ function NavBar() {
     return (
         <div className='flex justify-between px-4 bg-black items-center w-full h-20 text-white fixed'>
             <div>
-                <h1 className='text-5xl font-signature ml-3'>Arun</h1>
+                <h1 className='text-5xl font-signature ml-10'><span className='text-orange-400'>A</span>run</h1>
             </div>
-            <ul className='hidden md:flex'>
+            <ul className='hidden md:flex  sm:flex'>
 
                 {
                     links.map(({ id, link }) => (
                         <li key={id} className=' px-4 cursor-pointer capitalize font-medium text-gray-400 hover:scale-105 duration-200'>
-                        <Link to={link} smooth duration={500}>{link}</Link> 
-                        
+                            <Link to={link} smooth duration={500}>{link}</Link>
+
                         </li>
 
                     )
@@ -60,7 +60,7 @@ function NavBar() {
                     {
                         links.map(({ id, link }) => (
                             <li key={id} className='px-4 cursor-pointer capitalize py-6 text-4xl hover:scale-105 duration-200' >
-                                <Link onClick={ ()=> setNav(!nav) }  to={link} smooth duration={500}>{link}</Link> 
+                                <Link onClick={() => setNav(!nav)} to={link} smooth duration={500}>{link}</Link>
                             </li>
 
                         ))

@@ -35,7 +35,7 @@ const SocialLinks = () => {
         },
         {
             id:4,
-            link:'/Java_Developer.pdf',
+            link:'../Assets/Java_Developer.pdf',
             nameofTag:"PortFolio",
             icon:<BsFillPersonLinesFill size={30} />,
             dounload:true
